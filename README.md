@@ -7,5 +7,6 @@ This repository contains:
 - PIC-Arduino I2C and UART communication protocols
 - much more
 
+# Files
 - "LCD User Interface.X" contains all programs that run on the PIC18F4620
-- "Arduino Code" contains all programs related to the monitoring and control of sensors and motor mechanisms
+- "motor_control" contains all programs related to the monitoring and control of sensors and motor mechanisms using an arduino nano
