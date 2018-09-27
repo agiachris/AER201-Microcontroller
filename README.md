@@ -1,4 +1,4 @@
-# AER201-Microcontroller
+# AER201-Microcontroller Subsystem
 This repository contains:
 - an implementation for a user-friend LCD-keypad interface that allows an operator to input up to 42 instructions in under 1-minute
 - EEPROM storage implementation; stores information for up to 6 past run logs
