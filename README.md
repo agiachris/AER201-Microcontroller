@@ -5,4 +5,7 @@ This repository contains:
 - machine logic code responsible for the autonomous sorting, delivering, and packing of pills (3 different types)
 - arduino code for control and monitoring of mechanisms (motor driven: stepper, servo, dc) and sensors
 - PIC-Arduino I2C and UART communication protocols
-and much more.
+- much more
+
+"LCD User Interface.X" contains all programs that run on the PIC18F4620
+"Arduino Code" contains all programs related to the monitoring and control of sensors and motor mechanisms
